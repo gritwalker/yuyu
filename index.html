@@ -44,6 +44,10 @@
     const listEl = document.getElementById("list");
     const viewer = document.getElementById("viewer");
     let active = null;
+    const items = [
+      { folder: "content_08", url: "./content_08/output_index/index.html" },
+      { folder: "content_09", url: "./content_09/output_index/index.html" }
+    ];
 
     async function resolveIndexUrl(folder) {
       const tryUrl = async (url) => {
@@ -65,15 +69,15 @@
       if (active) active.classList.add("active");
     }
 
-    async function addItem(folder) {
-      const url = await resolveIndexUrl(folder);
-      if (!url) return;
+    async function addItem({ folder, url }) {
+      const resolved = await resolveIndexUrl(folder);
+      const finalUrl = resolved || url;
+      if (!finalUrl) return;
       let title = folder;
       try {
-        const html = await fetch(url).then(r => r.text());
+        const html = await fetch(finalUrl).then(r => r.text());
         const doc = new DOMParser().parseFromString(html, "text/html");
-        const h2 = doc.querySelector("header h2");
-        title = (h2 && h2.textContent.trim()) || doc.title || folder;
+        title = doc.title || folder;
       } catch {}
       const el = document.createElement("div");
       el.className = "item";
@@ -87,29 +91,17 @@
       el.appendChild(b);
       el.addEventListener("click", async () => {
         setActive(el);
-        viewer.src = url;
+        viewer.src = finalUrl;
       });
       listEl.appendChild(el);
       if (!active) {
         setActive(el);
-        viewer.src = url;
+        viewer.src = finalUrl;
       }
-    }
-
-    async function discoverFolders() {
-      const found = [];
-      const pad2 = (n) => String(n).padStart(2, "0");
-      for (let i = 1; i <= 99; i++) {
-        const folder = `content_${pad2(i)}`;
-        const url = await resolveIndexUrl(folder);
-        if (url) found.push({ folder, url });
-      }
-      return found;
     }
 
     async function init() {
-      const folders = await discoverFolders();
-      for (const { folder } of folders) await addItem(folder);
+      for (const item of items) await addItem(item);
     }
     init();
   </script>
