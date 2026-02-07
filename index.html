@@ -55,8 +55,7 @@
       };
       return (
         (await tryUrl(`./${folder}/output_index/index.html`)) ||
-        (await tryUrl(`./${folder}/output_results/index.html`)) ||
-        `./${folder}/output_index/index.html`
+        (await tryUrl(`./${folder}/output_results/index.html`))
       );
     }
 
@@ -68,6 +67,7 @@
 
     async function addItem(folder) {
       const url = await resolveIndexUrl(folder);
+      if (!url) return;
       let title = folder;
       try {
         const html = await fetch(url).then(r => r.text());
