@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,007
+你的专业是什么？
+What is your major?
+
+2
+00:00:02,032 --> 00:00:04,023
+我学习电脑工程。
+I study computer engineering.
+
+3
+00:00:04,048 --> 00:00:05,357
+学习难吗？
+Is studying difficult?
+
+4
+00:00:05,382 --> 00:00:10,099
+很有意思，但是有点儿难。
+It's very interesting, but a little difficult.
+

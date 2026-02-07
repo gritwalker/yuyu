@@ -1,0 +1,131 @@
+{
+  "title": "What sports do you like?",
+  "folder_name": "content_09",
+  "pattern_drill": "",
+  "vocab": [
+    {
+      "word": "你",
+      "mean": "you",
+      "kor": "너, 당신",
+      "pinyin": "nǐ"
+    },
+    {
+      "word": "喜欢",
+      "mean": "to like",
+      "kor": "좋아하다",
+      "pinyin": "xǐ huān"
+    },
+    {
+      "word": "什么",
+      "mean": "what",
+      "kor": "무엇",
+      "pinyin": "shén me"
+    },
+    {
+      "word": "体育运动",
+      "mean": "sports",
+      "kor": "스포츠",
+      "pinyin": "tǐ yù yùn dòng"
+    },
+    {
+      "word": "我",
+      "mean": "I, me",
+      "kor": "나, 저",
+      "pinyin": "wǒ"
+    },
+    {
+      "word": "最",
+      "mean": "most",
+      "kor": "가장",
+      "pinyin": "zuì"
+    },
+    {
+      "word": "打篮球",
+      "mean": "to play basketball",
+      "kor": "농구하다",
+      "pinyin": "dǎ lán qiú"
+    },
+    {
+      "word": "打",
+      "mean": "to hit, to play",
+      "kor": "치다, 하다",
+      "pinyin": "dǎ"
+    },
+    {
+      "word": "得",
+      "mean": "structural particle (used after a verb to indicate possibility, result, or degree)",
+      "kor": "구조조사 (동사 뒤에서 가능, 결과, 정도를 나타냄)",
+      "pinyin": "dé"
+    },
+    {
+      "word": "怎么样",
+      "mean": "how, how about",
+      "kor": "어떻게, 어때",
+      "pinyin": "zěn me yàng"
+    },
+    {
+      "word": "打得",
+      "mean": "to play (a sport/game) (with emphasis on manner or result)",
+      "kor": "치다, 하다 (방식이나 결과를 강조)",
+      "pinyin": "dǎ dé"
+    },
+    {
+      "word": "还",
+      "mean": "still, fairly",
+      "kor": "아직, 꽤",
+      "pinyin": "hái"
+    },
+    {
+      "word": "可以",
+      "mean": "okay, acceptable",
+      "kor": "괜찮다, 허용 가능하다",
+      "pinyin": "kě yǐ"
+    }
+  ],
+  "dialogue": [
+    {
+      "role": "A",
+      "text": "你喜欢什么体育运动？",
+      "pinyin": "nǐ xǐ huān shén me tǐ yù yùn dòng?",
+      "eng": "What sports do you like?",
+      "kor": "어떤 스포츠를 좋아하시나요?",
+      "start": 0.0,
+      "end": 2.524,
+      "start_v1": 0.0,
+      "end_v1": 1.992
+    },
+    {
+      "role": "B",
+      "text": "我最喜欢打篮球。",
+      "pinyin": "wǒ zuì xǐ huān dǎ lán qiú.",
+      "eng": "I like playing basketball the most.",
+      "kor": "농구하는 것을 가장 좋아해요.",
+      "start": 2.524,
+      "end": 5.049,
+      "start_v1": 2.017,
+      "end_v1": 4.436
+    },
+    {
+      "role": "A",
+      "text": "你打得怎么样？",
+      "pinyin": "nǐ dǎ de zěn me yàng?",
+      "eng": "How well do you play?",
+      "kor": "농구 실력이 어떠신가요?",
+      "start": 5.049,
+      "end": 7.575,
+      "start_v1": 4.461,
+      "end_v1": 8.34
+    },
+    {
+      "role": "B",
+      "text": "打得还可以。",
+      "pinyin": "dǎ de hái kě yǐ.",
+      "eng": "I play okay.",
+      "kor": "제법 하는 편이에요.",
+      "start": 7.575,
+      "end": 10.099,
+      "start_v1": 8.365,
+      "end_v1": 10.099
+    }
+  ]
+}

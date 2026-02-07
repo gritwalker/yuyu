@@ -1,0 +1,143 @@
+{
+  "title": "What is your major?",
+  "folder_name": "content_08",
+  "pattern_drill": "",
+  "vocab": [
+    {
+      "word": "你",
+      "mean": "you",
+      "kor": "너",
+      "pinyin": "nǐ"
+    },
+    {
+      "word": "的",
+      "mean": "possessive particle",
+      "kor": "소유격 조사",
+      "pinyin": "de"
+    },
+    {
+      "word": "专业",
+      "mean": "major",
+      "kor": "전공",
+      "pinyin": "zhuān yè"
+    },
+    {
+      "word": "是",
+      "mean": "to be",
+      "kor": "이다",
+      "pinyin": "shì"
+    },
+    {
+      "word": "什么",
+      "mean": "what",
+      "kor": "무엇",
+      "pinyin": "shén me"
+    },
+    {
+      "word": "我",
+      "mean": "I, me",
+      "kor": "나",
+      "pinyin": "wǒ"
+    },
+    {
+      "word": "学习",
+      "mean": "to study",
+      "kor": "공부하다",
+      "pinyin": "xué xí"
+    },
+    {
+      "word": "电脑",
+      "mean": "computer",
+      "kor": "컴퓨터",
+      "pinyin": "diàn nǎo"
+    },
+    {
+      "word": "工程",
+      "mean": "engineering",
+      "kor": "공학",
+      "pinyin": "gōng chéng"
+    },
+    {
+      "word": "难",
+      "mean": "difficult",
+      "kor": "어렵다",
+      "pinyin": "nán"
+    },
+    {
+      "word": "吗",
+      "mean": "question particle",
+      "kor": "의문사",
+      "pinyin": "ma"
+    },
+    {
+      "word": "很",
+      "mean": "very",
+      "kor": "매우",
+      "pinyin": "hěn"
+    },
+    {
+      "word": "有意思",
+      "mean": "interesting",
+      "kor": "흥미롭다",
+      "pinyin": "yǒu yì si"
+    },
+    {
+      "word": "但是",
+      "mean": "but",
+      "kor": "그러나",
+      "pinyin": "dàn shì"
+    },
+    {
+      "word": "有点儿",
+      "mean": "a little",
+      "kor": "조금",
+      "pinyin": "yǒu diǎn ér"
+    }
+  ],
+  "dialogue": [
+    {
+      "role": "A",
+      "text": "你的专业是什么？",
+      "pinyin": "nǐ de zhuān yè shì shén me ？",
+      "eng": "What is your major?",
+      "kor": "너의 전공은 무엇이니?",
+      "start": 0.0,
+      "end": 2.524,
+      "start_v1": 0.0,
+      "end_v1": 2.007
+    },
+    {
+      "role": "B",
+      "text": "我学习电脑工程。",
+      "pinyin": "wǒ xué xí diàn nǎo gōng chéng 。",
+      "eng": "I study computer engineering.",
+      "kor": "나는 컴퓨터 공학을 공부해.",
+      "start": 2.524,
+      "end": 5.049,
+      "start_v1": 2.032,
+      "end_v1": 4.023
+    },
+    {
+      "role": "A",
+      "text": "学习难吗？",
+      "pinyin": "xué xí nán ma ？",
+      "eng": "Is studying difficult?",
+      "kor": "공부하기 어렵니?",
+      "start": 5.049,
+      "end": 7.575,
+      "start_v1": 4.048,
+      "end_v1": 5.357
+    },
+    {
+      "role": "B",
+      "text": "很有意思，但是有点儿难。",
+      "pinyin": "hěn yǒu yì si ， dàn shì yǒu diǎn ér nán 。",
+      "eng": "It's very interesting, but a little difficult.",
+      "kor": "매우 흥미롭지만, 조금 어려워.",
+      "start": 7.575,
+      "end": 10.099,
+      "start_v1": 5.382,
+      "end_v1": 10.099
+    }
+  ]
+}
