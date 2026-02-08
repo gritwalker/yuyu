@@ -1,0 +1,129 @@
+{
+  "title": "What is your hobby?",
+  "folder_name": "C:/myproject/yuyuchinese/content_05",
+  "pattern_drill": "",
+  "vocab": [
+    {
+      "word": "你",
+      "mean": "you",
+      "kor": "너",
+      "pinyin": "nǐ"
+    },
+    {
+      "word": "的",
+      "mean": "possessive particle",
+      "kor": "소유격 조사",
+      "pinyin": "de"
+    },
+    {
+      "word": "爱好",
+      "mean": "hobby",
+      "kor": "취미",
+      "pinyin": "ài hào"
+    },
+    {
+      "word": "是",
+      "mean": "to be",
+      "kor": "이다",
+      "pinyin": "shì"
+    },
+    {
+      "word": "什么",
+      "mean": "what",
+      "kor": "무엇",
+      "pinyin": "shén me"
+    },
+    {
+      "word": "我",
+      "mean": "I, me",
+      "kor": "나",
+      "pinyin": "wǒ"
+    },
+    {
+      "word": "喜欢",
+      "mean": "to like",
+      "kor": "좋아하다",
+      "pinyin": "xǐ huān"
+    },
+    {
+      "word": "看",
+      "mean": "to watch, to look",
+      "kor": "보다",
+      "pinyin": "kàn"
+    },
+    {
+      "word": "电影",
+      "mean": "movie, film",
+      "kor": "영화",
+      "pinyin": "diàn yǐng"
+    },
+    {
+      "word": "动作片",
+      "mean": "action movie",
+      "kor": "액션 영화",
+      "pinyin": "dòng zuò piàn"
+    }
+  ],
+  "dialogue": [
+    {
+      "role": "A",
+      "text": "你的爱好是什么？",
+      "pinyin": "nǐ de ài hào shì shén me ？",
+      "eng": "What is your hobby?",
+      "kor": "너의 취미는 무엇이니?",
+      "start": 0.0,
+      "end": 1.501,
+      "start_v1": 0.0,
+      "end_v1": 1.501,
+      "start_v2": 0.0,
+      "end_v2": 1.501,
+      "start_v3": 0.0,
+      "end_v3": 1.501
+    },
+    {
+      "role": "B",
+      "text": "我喜欢看电影。",
+      "pinyin": "wǒ xǐ huān kàn diàn yǐng 。",
+      "eng": "I like watching movies.",
+      "kor": "나는 영화 보는 것을 좋아해.",
+      "start": 1.501,
+      "end": 3.304,
+      "start_v1": 1.501,
+      "end_v1": 3.304,
+      "start_v2": 1.501,
+      "end_v2": 3.304,
+      "start_v3": 1.501,
+      "end_v3": 3.304
+    },
+    {
+      "role": "A",
+      "text": "你喜欢看什么电影？",
+      "pinyin": "nǐ xǐ huān kàn shén me diàn yǐng ？",
+      "eng": "What kind of movies do you like to watch?",
+      "kor": "너는 어떤 영화 보는 것을 좋아하니?",
+      "start": 3.304,
+      "end": 5.408,
+      "start_v1": 3.304,
+      "end_v1": 5.408,
+      "start_v2": 3.304,
+      "end_v2": 5.408,
+      "start_v3": 3.304,
+      "end_v3": 5.408
+    },
+    {
+      "role": "B",
+      "text": "我喜欢看动作片。",
+      "pinyin": "wǒ xǐ huān kàn dòng zuò piàn 。",
+      "eng": "I like watching action movies.",
+      "kor": "나는 액션 영화 보는 것을 좋아해.",
+      "start": 5.408,
+      "end": 8.009,
+      "start_v1": 5.408,
+      "end_v1": 8.009,
+      "start_v2": 5.408,
+      "end_v2": 8.009,
+      "start_v3": 5.408,
+      "end_v3": 8.009
+    }
+  ]
+}

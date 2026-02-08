@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:02,509
+你想去哪儿？
+Where do you want to go?
+
+2
+00:00:02,509 --> 00:00:05,019
+我想去咖啡店。
+I want to go to a coffee shop.
+
+3
+00:00:05,019 --> 00:00:07,530
+你想喝什么？
+What do you want to drink?
+
+4
+00:00:07,530 --> 00:00:10,039
+我想喝美式咖啡。
+I want to drink American coffee.

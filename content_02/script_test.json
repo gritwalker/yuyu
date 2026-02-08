@@ -1,0 +1,129 @@
+{
+  "title": "Going to a Coffee Shop",
+  "folder_name": "content_02",
+  "pattern_drill": "",
+  "vocab": [
+    {
+      "word": "你",
+      "mean": "you",
+      "kor": "너, 당신",
+      "pinyin": "nǐ"
+    },
+    {
+      "word": "想",
+      "mean": "to want, to think",
+      "kor": "~하고 싶다, 생각하다",
+      "pinyin": "xiǎng"
+    },
+    {
+      "word": "去",
+      "mean": "to go",
+      "kor": "가다",
+      "pinyin": "qù"
+    },
+    {
+      "word": "哪儿",
+      "mean": "where",
+      "kor": "어디",
+      "pinyin": "nǎ ér"
+    },
+    {
+      "word": "我",
+      "mean": "I, me",
+      "kor": "나, 저",
+      "pinyin": "wǒ"
+    },
+    {
+      "word": "咖啡店",
+      "mean": "coffee shop",
+      "kor": "커피숍",
+      "pinyin": "kā fēi diàn"
+    },
+    {
+      "word": "喝",
+      "mean": "to drink",
+      "kor": "마시다",
+      "pinyin": "hē"
+    },
+    {
+      "word": "什么",
+      "mean": "what",
+      "kor": "무엇",
+      "pinyin": "shén me"
+    },
+    {
+      "word": "美式",
+      "mean": "American style",
+      "kor": "미국식",
+      "pinyin": "měi shì"
+    },
+    {
+      "word": "咖啡",
+      "mean": "coffee",
+      "kor": "커피",
+      "pinyin": "kā fēi"
+    }
+  ],
+  "dialogue": [
+    {
+      "role": "A",
+      "text": "你想去哪儿？",
+      "pinyin": "nǐ xiǎng qù nǎ ér ？",
+      "eng": "Where do you want to go?",
+      "kor": "어디에 가고 싶어요?",
+      "start": 0.0,
+      "end": 2.509,
+      "start_v1": 0.0,
+      "end_v1": 2.509,
+      "start_v2": 0.0,
+      "end_v2": 2.509,
+      "start_v3": 0.0,
+      "end_v3": 2.509
+    },
+    {
+      "role": "B",
+      "text": "我想去咖啡店。",
+      "pinyin": "wǒ xiǎng qù kā fēi diàn 。",
+      "eng": "I want to go to a coffee shop.",
+      "kor": "저는 커피숍에 가고 싶어요.",
+      "start": 2.509,
+      "end": 5.019,
+      "start_v1": 2.509,
+      "end_v1": 5.019,
+      "start_v2": 2.509,
+      "end_v2": 5.019,
+      "start_v3": 2.509,
+      "end_v3": 5.019
+    },
+    {
+      "role": "A",
+      "text": "你想喝什么？",
+      "pinyin": "nǐ xiǎng hē shén me ？",
+      "eng": "What do you want to drink?",
+      "kor": "무엇을 마시고 싶어요?",
+      "start": 5.019,
+      "end": 7.53,
+      "start_v1": 5.019,
+      "end_v1": 7.53,
+      "start_v2": 5.019,
+      "end_v2": 7.53,
+      "start_v3": 5.019,
+      "end_v3": 7.53
+    },
+    {
+      "role": "B",
+      "text": "我想喝美式咖啡。",
+      "pinyin": "wǒ xiǎng hē měi shì kā fēi 。",
+      "eng": "I want to drink American coffee.",
+      "kor": "저는 아메리카노를 마시고 싶어요.",
+      "start": 7.53,
+      "end": 10.039,
+      "start_v1": 7.53,
+      "end_v1": 10.039,
+      "start_v2": 7.53,
+      "end_v2": 10.039,
+      "start_v3": 7.53,
+      "end_v3": 10.039
+    }
+  ]
+}

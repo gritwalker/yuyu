@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,507
+你家有几口人？
+How many people are in your family?
+
+2
+00:00:02,532 --> 00:00:04,179
+我家有四口人。
+There are four people in my family.
+
+3
+00:00:04,204 --> 00:00:05,414
+你有弟弟吗？
+Do you have a younger brother?
+
+4
+00:00:05,439 --> 00:00:10,099
+没有，我有两个姐姐。
+No, I have two older sisters.
+

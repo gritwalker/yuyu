@@ -1,0 +1,123 @@
+{
+  "title": "Asking for Preferences about Food",
+  "folder_name": "content_01",
+  "pattern_drill": "",
+  "vocab": [
+    {
+      "word": "你",
+      "mean": "you",
+      "kor": "너",
+      "pinyin": "nǐ"
+    },
+    {
+      "word": "喜欢",
+      "mean": "to like",
+      "kor": "좋아하다",
+      "pinyin": "xǐ huān"
+    },
+    {
+      "word": "吃",
+      "mean": "to eat",
+      "kor": "먹다",
+      "pinyin": "chī"
+    },
+    {
+      "word": "什么",
+      "mean": "what",
+      "kor": "무엇",
+      "pinyin": "shén me"
+    },
+    {
+      "word": "我",
+      "mean": "I, me",
+      "kor": "나",
+      "pinyin": "wǒ"
+    },
+    {
+      "word": "中国",
+      "mean": "China",
+      "kor": "중국",
+      "pinyin": "zhōng guó"
+    },
+    {
+      "word": "菜",
+      "mean": "dish, cuisine",
+      "kor": "요리",
+      "pinyin": "cài"
+    },
+    {
+      "word": "最",
+      "mean": "most",
+      "kor": "가장",
+      "pinyin": "zuì"
+    },
+    {
+      "word": "锅包肉",
+      "mean": "sweet and sour pork",
+      "kor": "탕수육",
+      "pinyin": "guō bāo ròu"
+    }
+  ],
+  "dialogue": [
+    {
+      "role": "A",
+      "text": "你喜欢吃什么？",
+      "pinyin": "nǐ xǐ huān chī shén me ？",
+      "eng": "What do you like to eat?",
+      "kor": "무엇을 좋아해요?",
+      "start": 0.0,
+      "end": 2.509,
+      "start_v1": 0.0,
+      "end_v1": 2.0,
+      "start_v2": 0.0,
+      "end_v2": 2.0,
+      "start_v3": 0.0,
+      "end_v3": 2.509
+    },
+    {
+      "role": "B",
+      "text": "我喜欢吃中国菜。",
+      "pinyin": "wǒ xǐ huān chī zhōng guó cài 。",
+      "eng": "I like to eat Chinese food.",
+      "kor": "중국 음식을 좋아해요.",
+      "start": 2.509,
+      "end": 5.019,
+      "start_v1": 2.0,
+      "end_v1": 4.0,
+      "start_v2": 2.0,
+      "end_v2": 4.0,
+      "start_v3": 2.509,
+      "end_v3": 5.019
+    },
+    {
+      "role": "A",
+      "text": "最喜欢吃什么菜？",
+      "pinyin": "zuì xǐ huān chī shén me cài ？",
+      "eng": "What dish do you like the most?",
+      "kor": "어떤 요리를 가장 좋아해요?",
+      "start": 5.019,
+      "end": 7.53,
+      "start_v1": 4.0,
+      "end_v1": 6.0,
+      "start_v2": 4.0,
+      "end_v2": 6.0,
+      "start_v3": 5.019,
+      "end_v3": 7.53
+    },
+    {
+      "role": "B",
+      "text": "我最喜欢吃锅包肉。",
+      "pinyin": "wǒ zuì xǐ huān chī guō bāo ròu 。",
+      "eng": "I like to eat sweet and sour pork the most.",
+      "kor": "탕수육을 가장 좋아해요.",
+      "start": 7.53,
+      "end": 10.039,
+      "start_v1": 6.0,
+      "end_v1": 8.0,
+      "start_v2": 6.0,
+      "end_v2": 8.0,
+      "start_v3": 7.53,
+      "end_v3": 10.039
+    }
+  ]
+}

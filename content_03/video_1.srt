@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:02,509
+你这周末有空吗？
+Are you free this weekend?
+
+2
+00:00:02,509 --> 00:00:05,019
+我没安排，怎么了？
+I have no plans, why?
+
+3
+00:00:05,019 --> 00:00:07,530
+我想请你吃晚饭。
+I want to invite you to dinner.
+
+4
+00:00:07,530 --> 00:00:10,039
+好啊，那几点见面？
+Sure, then what time should we meet?

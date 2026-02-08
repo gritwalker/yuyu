@@ -1,0 +1,177 @@
+{
+  "title": "Are you free this weekend?",
+  "folder_name": "content_03",
+  "pattern_drill": "",
+  "vocab": [
+    {
+      "word": "你",
+      "mean": "you",
+      "kor": "너",
+      "pinyin": "nǐ"
+    },
+    {
+      "word": "这",
+      "mean": "this",
+      "kor": "이",
+      "pinyin": "zhè"
+    },
+    {
+      "word": "周末",
+      "mean": "weekend",
+      "kor": "주말",
+      "pinyin": "zhōu mò"
+    },
+    {
+      "word": "有空",
+      "mean": "to be free",
+      "kor": "시간이 있다",
+      "pinyin": "yǒu kòng"
+    },
+    {
+      "word": "吗",
+      "mean": "question particle",
+      "kor": "의문사",
+      "pinyin": "ma"
+    },
+    {
+      "word": "我",
+      "mean": "I, me",
+      "kor": "나",
+      "pinyin": "wǒ"
+    },
+    {
+      "word": "没",
+      "mean": "not, no",
+      "kor": "없다",
+      "pinyin": "méi"
+    },
+    {
+      "word": "安排",
+      "mean": "plan, arrangement",
+      "kor": "계획",
+      "pinyin": "ān pái"
+    },
+    {
+      "word": "怎么",
+      "mean": "how, why",
+      "kor": "어떻게, 왜",
+      "pinyin": "zěn me"
+    },
+    {
+      "word": "了",
+      "mean": "particle indicating change or completion",
+      "kor": "변화나 완료를 나타내는 조사",
+      "pinyin": "le"
+    },
+    {
+      "word": "想",
+      "mean": "to want, to think",
+      "kor": "원하다, 생각하다",
+      "pinyin": "xiǎng"
+    },
+    {
+      "word": "请",
+      "mean": "to invite, to treat",
+      "kor": "초대하다, 대접하다",
+      "pinyin": "qǐng"
+    },
+    {
+      "word": "吃晚饭",
+      "mean": "to eat dinner",
+      "kor": "저녁을 먹다",
+      "pinyin": "chī wǎn fàn"
+    },
+    {
+      "word": "好",
+      "mean": "good, okay",
+      "kor": "좋다",
+      "pinyin": "hǎo"
+    },
+    {
+      "word": "啊",
+      "mean": "interjection particle",
+      "kor": "감탄사",
+      "pinyin": "a"
+    },
+    {
+      "word": "那",
+      "mean": "then, in that case",
+      "kor": "그럼",
+      "pinyin": "nà"
+    },
+    {
+      "word": "几点",
+      "mean": "what time",
+      "kor": "몇 시",
+      "pinyin": "jǐ diǎn"
+    },
+    {
+      "word": "见面",
+      "mean": "to meet",
+      "kor": "만나다",
+      "pinyin": "jiàn miàn"
+    }
+  ],
+  "dialogue": [
+    {
+      "role": "A",
+      "text": "你这周末有空吗？",
+      "pinyin": "nǐ zhè zhōu mò yǒu kòng ma ？",
+      "eng": "Are you free this weekend?",
+      "kor": "이번 주말에 시간 있어요?",
+      "start": 0.0,
+      "end": 1.3,
+      "start_v1": 0.0,
+      "end_v1": 2.509,
+      "start_v2": 0.0,
+      "end_v2": 2.0,
+      "start_v3": 0.0,
+      "end_v3": 1.3
+    },
+    {
+      "role": "B",
+      "text": "我没安排，怎么了？",
+      "pinyin": "wǒ méi ān pái ， zěn me le ？",
+      "eng": "I have no plans, why?",
+      "kor": "계획 없어요, 왜요?",
+      "start": 1.3,
+      "end": 3.5,
+      "start_v1": 2.509,
+      "end_v1": 5.019,
+      "start_v2": 2.0,
+      "end_v2": 4.0,
+      "start_v3": 1.3,
+      "end_v3": 3.5
+    },
+    {
+      "role": "A",
+      "text": "我想请你吃晚饭。",
+      "pinyin": "wǒ xiǎng qǐng nǐ chī wǎn fàn 。",
+      "eng": "I want to invite you to dinner.",
+      "kor": "저녁 식사에 초대하고 싶어요.",
+      "start": 3.6,
+      "end": 6.0,
+      "start_v1": 5.019,
+      "end_v1": 7.53,
+      "start_v2": 4.0,
+      "end_v2": 6.0,
+      "start_v3": 3.6,
+      "end_v3": 5.5
+    },
+    {
+      "role": "B",
+      "text": "好啊，那几点见面？",
+      "pinyin": "hǎo a ， nà jǐ diǎn jiàn miàn ？",
+      "eng": "Sure, then what time should we meet?",
+      "kor": "좋아요, 그럼 몇 시에 만날까요?",
+      "start": 5.6,
+      "end": 8.0,
+      "start_v1": 7.53,
+      "end_v1": 10.039,
+      "start_v2": 6.0,
+      "end_v2": 8.0,
+      "start_v3": 5.6,
+      "end_v3": 8.0
+    }
+  ]
+}

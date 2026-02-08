@@ -1,0 +1,46 @@
+{
+  "title": "중국어 기초 - 좋아하는 음식 묻기",
+  "folder_name": "content_01",
+  "pattern_drill": "你喜欢...吗? / 最喜欢...",
+  "dialogue": [
+    {
+      "role": "A",
+      "text": "你喜欢吃什么？",
+      "pinyin": "Nǐ xǐhuan chī shénme?",
+      "kor": "너 뭐 먹는 거 좋아해?",
+      "start": 0.0,
+      "end": 2.5
+    },
+    {
+      "role": "B",
+      "text": "我喜欢吃中国菜。",
+      "pinyin": "Wǒ xǐhuan chī Zhōngguó cài.",
+      "kor": "난 중국 요리 좋아해.",
+      "start": 2.5,
+      "end": 5.0
+    },
+    {
+      "role": "A",
+      "text": "最喜欢吃什么菜？",
+      "pinyin": "Zuì xǐhuan chī shénme cài?",
+      "kor": "가장 좋아하는 요리는 뭐야?",
+      "start": 5.0,
+      "end": 7.5
+    },
+    {
+      "role": "B",
+      "text": "我最喜欢吃锅包肉。",
+      "pinyin": "Wǒ zuì xǐhuan chī guōbāoròu.",
+      "kor": "난 꿔바로우를 제일 좋아해.",
+      "start": 7.5,
+      "end": 10.0
+    }
+  ],
+  "vocab": [
+    {"word": "喜欢", "mean": "좋아하다"},
+    {"word": "中国菜", "mean": "중국요리"},
+    {"word": "锅包肉", "mean": "꿔바로우"}
+
+
+  ]
+}

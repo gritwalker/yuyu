@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:02,524
+你喜欢吃什么？
+What do you like to eat?
+
+2
+00:00:02,524 --> 00:00:05,049
+我喜欢吃中国菜。
+I like to eat Chinese food.
+
+3
+00:00:05,049 --> 00:00:07,575
+最喜欢吃什么菜？
+What dish do you like the most?
+
+4
+00:00:07,575 --> 00:00:10,099
+我最喜欢吃锅包肉。
+I like to eat sweet and sour pork the most.

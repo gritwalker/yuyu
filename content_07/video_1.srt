@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,641
+你会说汉语吗？
+Can you speak Chinese?
+
+2
+00:00:02,666 --> 00:00:04,912
+我会说一点儿。
+I can speak a little.
+
+3
+00:00:04,937 --> 00:00:06,793
+你学了多长时间了？
+How long have you been studying?
+
+4
+00:00:06,818 --> 00:00:10,099
+我学了一年了。
+I have been studying for a year.
+
