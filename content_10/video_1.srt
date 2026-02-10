@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:01,929
+你什么时候有空？
+When are you free?
+
+2
+00:00:01,954 --> 00:00:04,109
+我这个周末有空。
+I am free this weekend.
+
+3
+00:00:04,134 --> 00:00:06,267
+我们一起去看书吧？
+Shall we go read books together?
+
+4
+00:00:06,292 --> 00:00:10,099
+好的，图书馆见。
+Okay, see you at the library.
+

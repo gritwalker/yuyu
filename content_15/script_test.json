@@ -1,0 +1,143 @@
+{
+  "title": "How was yesterday's movie?",
+  "folder_name": "content_15",
+  "pattern_drill": "",
+  "vocab": [
+    {
+      "word": "昨天",
+      "mean": "yesterday",
+      "kor": "어제",
+      "pinyin": "zuó tiān"
+    },
+    {
+      "word": "的",
+      "mean": "possessive particle",
+      "kor": "소유격 조사",
+      "pinyin": "de"
+    },
+    {
+      "word": "电影",
+      "mean": "movie",
+      "kor": "영화",
+      "pinyin": "diàn yǐng"
+    },
+    {
+      "word": "怎么样",
+      "mean": "how is it?",
+      "kor": "어때요?",
+      "pinyin": "zěn me yàng"
+    },
+    {
+      "word": "很",
+      "mean": "very",
+      "kor": "아주",
+      "pinyin": "hěn"
+    },
+    {
+      "word": "有意思",
+      "mean": "interesting",
+      "kor": "재미있는",
+      "pinyin": "yǒu yì si"
+    },
+    {
+      "word": "我",
+      "mean": "I, me",
+      "kor": "나",
+      "pinyin": "wǒ"
+    },
+    {
+      "word": "看",
+      "mean": "to watch, to look",
+      "kor": "보다",
+      "pinyin": "kàn"
+    },
+    {
+      "word": "得",
+      "mean": "structural particle (degree/complement)",
+      "kor": "구조조사 (정도/보어)",
+      "pinyin": "dé"
+    },
+    {
+      "word": "开心",
+      "mean": "happy, joyful",
+      "kor": "즐거운",
+      "pinyin": "kāi xīn"
+    },
+    {
+      "word": "谁",
+      "mean": "who",
+      "kor": "누구",
+      "pinyin": "shuí"
+    },
+    {
+      "word": "跟",
+      "mean": "with",
+      "kor": "~와 함께",
+      "pinyin": "gēn"
+    },
+    {
+      "word": "你",
+      "mean": "you",
+      "kor": "너",
+      "pinyin": "nǐ"
+    },
+    {
+      "word": "一起",
+      "mean": "together",
+      "kor": "함께",
+      "pinyin": "yì qǐ"
+    },
+    {
+      "word": "妹妹",
+      "mean": "younger sister",
+      "kor": "여동생",
+      "pinyin": "mèi mèi"
+    }
+  ],
+  "dialogue": [
+    {
+      "role": "A",
+      "text": "昨天的电影怎么样？",
+      "pinyin": "zuó tiān de diàn yǐng zěn me yàng?",
+      "eng": "How was yesterday's movie?",
+      "kor": "어제 영화 어땠나요?",
+      "start": 0.0,
+      "end": 2.524,
+      "start_v1": 0.0,
+      "end_v1": 1.835
+    },
+    {
+      "role": "B",
+      "text": "很有意思，我看得很开心。",
+      "pinyin": "hěn yǒu yì si, wǒ kàn de hěn kāi xīn.",
+      "eng": "It was very interesting, I enjoyed watching it very much.",
+      "kor": "아주 재미있어서 즐겁게 봤어요.",
+      "start": 2.524,
+      "end": 5.049,
+      "start_v1": 1.8599999999999999,
+      "end_v1": 4.609
+    },
+    {
+      "role": "A",
+      "text": "谁跟你一起看的？",
+      "pinyin": "shuí gēn nǐ yī qǐ kàn de?",
+      "eng": "Who did you watch it with?",
+      "kor": "누구랑 같이 봤나요?",
+      "start": 5.049,
+      "end": 7.575,
+      "start_v1": 4.634,
+      "end_v1": 6.187
+    },
+    {
+      "role": "B",
+      "text": "我跟我妹妹一起看的。",
+      "pinyin": "wǒ gēn wǒ mèi mei yī qǐ kàn de.",
+      "eng": "I watched it with my younger sister.",
+      "kor": "제 여동생이랑 같이 봤어요.",
+      "start": 7.575,
+      "end": 10.099,
+      "start_v1": 6.212,
+      "end_v1": 10.099
+    }
+  ]
+}

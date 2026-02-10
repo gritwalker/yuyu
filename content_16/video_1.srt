@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:01,460
+你每天怎么去公司？
+How do you go to the company every day?
+
+2
+00:00:01,485 --> 00:00:03,281
+我坐地铁上班。
+I take the subway to work.
+
+3
+00:00:03,306 --> 00:00:04,867
+坐地铁方便吗？
+Is taking the subway convenient?
+
+4
+00:00:04,892 --> 00:00:08,000
+很方便，不用担心堵车。
+It's very convenient, no need to worry about traffic jams.
+

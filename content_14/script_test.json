@@ -1,0 +1,161 @@
+{
+  "title": "It might rain tomorrow.",
+  "folder_name": "content_14",
+  "pattern_drill": "",
+  "vocab": [
+    {
+      "word": "明天",
+      "mean": "tomorrow",
+      "kor": "내일",
+      "pinyin": "míng tiān"
+    },
+    {
+      "word": "可能",
+      "mean": "might, possible",
+      "kor": "아마, 가능한",
+      "pinyin": "kě néng"
+    },
+    {
+      "word": "会",
+      "mean": "will, can (indicating possibility)",
+      "kor": "~할 것이다, ~할 수 있다 (가능성 나타냄)",
+      "pinyin": "huì"
+    },
+    {
+      "word": "下雨",
+      "mean": "to rain",
+      "kor": "비가 오다",
+      "pinyin": "xià yǔ"
+    },
+    {
+      "word": "那",
+      "mean": "then, in that case",
+      "kor": "그럼, 그 경우에는",
+      "pinyin": "nà"
+    },
+    {
+      "word": "我们",
+      "mean": "we, us",
+      "kor": "우리",
+      "pinyin": "wǒ men"
+    },
+    {
+      "word": "还",
+      "mean": "still, yet",
+      "kor": "아직, 여전히",
+      "pinyin": "hái"
+    },
+    {
+      "word": "去",
+      "mean": "to go",
+      "kor": "가다",
+      "pinyin": "qù"
+    },
+    {
+      "word": "爬山",
+      "mean": "to hike, to climb a mountain",
+      "kor": "등산하다, 산에 오르다",
+      "pinyin": "pá shān"
+    },
+    {
+      "word": "吗",
+      "mean": "question particle",
+      "kor": "의문사",
+      "pinyin": "ma"
+    },
+    {
+      "word": "如果",
+      "mean": "if",
+      "kor": "만약",
+      "pinyin": "rú guǒ"
+    },
+    {
+      "word": "就",
+      "mean": "then, in that case",
+      "kor": "그러면, 그 경우에",
+      "pinyin": "jiù"
+    },
+    {
+      "word": "不",
+      "mean": "not",
+      "kor": "아니다",
+      "pinyin": "bù"
+    },
+    {
+      "word": "了",
+      "mean": "particle indicating change of state",
+      "kor": "상태 변화를 나타내는 조사",
+      "pinyin": "le"
+    },
+    {
+      "word": "好",
+      "mean": "good, okay",
+      "kor": "좋다, 알겠다",
+      "pinyin": "hǎo"
+    },
+    {
+      "word": "吧",
+      "mean": "particle suggesting or agreeing",
+      "kor": "제안이나 동의를 나타내는 조사",
+      "pinyin": "ba"
+    },
+    {
+      "word": "在家",
+      "mean": "at home",
+      "kor": "집에서",
+      "pinyin": "zài jiā"
+    },
+    {
+      "word": "休息",
+      "mean": "to rest",
+      "kor": "쉬다",
+      "pinyin": "xiū xī"
+    }
+  ],
+  "dialogue": [
+    {
+      "role": "A",
+      "text": "明天可能会下雨。",
+      "pinyin": "míng tiān kě néng huì xià yǔ.",
+      "eng": "It might rain tomorrow.",
+      "kor": "내일 비가 올지도 몰라요.",
+      "start": 0.0,
+      "end": 2.524,
+      "start_v1": 0.0,
+      "end_v1": 2.054
+    },
+    {
+      "role": "B",
+      "text": "那我们还去爬山吗？",
+      "pinyin": "nà wǒ men hái qù pá shān ma?",
+      "eng": "Then, are we still going hiking?",
+      "kor": "그럼 우리 그래도 등산 가나요?",
+      "start": 2.524,
+      "end": 5.049,
+      "start_v1": 2.079,
+      "end_v1": 3.9290000000000003
+    },
+    {
+      "role": "A",
+      "text": "如果下雨，我们就不去了。",
+      "pinyin": "rú guǒ xià yǔ, wǒ men jiù bù qù le.",
+      "eng": "If it rains, we won't go.",
+      "kor": "만약 비가 오면 안 갈 거예요.",
+      "start": 5.049,
+      "end": 7.575,
+      "start_v1": 3.9539999999999997,
+      "end_v1": 6.749
+    },
+    {
+      "role": "B",
+      "text": "好吧，我们在家休息。",
+      "pinyin": "hǎo ba, wǒ men zài jiā xiū xi.",
+      "eng": "Alright, we'll rest at home.",
+      "kor": "그래요, 집에서 쉽시다.",
+      "start": 7.575,
+      "end": 10.099,
+      "start_v1": 6.774,
+      "end_v1": 10.099
+    }
+  ]
+}

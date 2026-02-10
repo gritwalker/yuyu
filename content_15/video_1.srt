@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:01,835
+昨天的电影怎么样？
+How was yesterday's movie?
+
+2
+00:00:01,860 --> 00:00:04,609
+很有意思，我看得很开心。
+It was very interesting, I enjoyed watching it very much.
+
+3
+00:00:04,634 --> 00:00:06,187
+谁跟你一起看的？
+Who did you watch it with?
+
+4
+00:00:06,212 --> 00:00:10,099
+我跟我妹妹一起看的。
+I watched it with my younger sister.
+

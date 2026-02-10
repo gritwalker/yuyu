@@ -1,0 +1,167 @@
+{
+  "title": "The food here is too spicy.",
+  "folder_name": "content_11",
+  "pattern_drill": "",
+  "vocab": [
+    {
+      "word": "这里",
+      "mean": "here",
+      "kor": "여기",
+      "pinyin": "zhè lǐ"
+    },
+    {
+      "word": "的",
+      "mean": "possessive particle",
+      "kor": "소유격 조사",
+      "pinyin": "de"
+    },
+    {
+      "word": "菜",
+      "mean": "food, dish",
+      "kor": "음식, 요리",
+      "pinyin": "cài"
+    },
+    {
+      "word": "太辣",
+      "mean": "too spicy",
+      "kor": "너무 매운",
+      "pinyin": "tài là"
+    },
+    {
+      "word": "了",
+      "mean": "particle indicating change or completion",
+      "kor": "변화나 완료를 나타내는 조사",
+      "pinyin": "le"
+    },
+    {
+      "word": "你",
+      "mean": "you",
+      "kor": "너",
+      "pinyin": "nǐ"
+    },
+    {
+      "word": "不能",
+      "mean": "cannot",
+      "kor": "못하다",
+      "pinyin": "bù néng"
+    },
+    {
+      "word": "吃",
+      "mean": "to eat",
+      "kor": "먹다",
+      "pinyin": "chī"
+    },
+    {
+      "word": "辣",
+      "mean": "spicy",
+      "kor": "매운",
+      "pinyin": "là"
+    },
+    {
+      "word": "吗",
+      "mean": "question particle",
+      "kor": "의문사",
+      "pinyin": "ma"
+    },
+    {
+      "word": "我",
+      "mean": "I, me",
+      "kor": "나",
+      "pinyin": "wǒ"
+    },
+    {
+      "word": "一点儿",
+      "mean": "a little bit",
+      "kor": "조금",
+      "pinyin": "yì diǎn ér"
+    },
+    {
+      "word": "也",
+      "mean": "also, even",
+      "kor": "또한, 심지어",
+      "pinyin": "yě"
+    },
+    {
+      "word": "那",
+      "mean": "then, in that case",
+      "kor": "그럼, 그 경우에",
+      "pinyin": "nà"
+    },
+    {
+      "word": "给",
+      "mean": "to give, for",
+      "kor": "주다, 위해",
+      "pinyin": "gěi"
+    },
+    {
+      "word": "点",
+      "mean": "to order (food)",
+      "kor": "주문하다",
+      "pinyin": "diǎn"
+    },
+    {
+      "word": "一个",
+      "mean": "one (classifier)",
+      "kor": "하나 (분류사)",
+      "pinyin": "yí gè"
+    },
+    {
+      "word": "不辣",
+      "mean": "not spicy",
+      "kor": "안 매운",
+      "pinyin": "bù là"
+    },
+    {
+      "word": "吧",
+      "mean": "particle suggesting or softening tone",
+      "kor": "제안이나 부드러운 어조를 나타내는 조사",
+      "pinyin": "ba"
+    }
+  ],
+  "dialogue": [
+    {
+      "role": "A",
+      "text": "这里的菜太辣了。",
+      "pinyin": "zhè lǐ de cài tài là le.",
+      "eng": "The food here is too spicy.",
+      "kor": "여기 요리는 너무 맵네요.",
+      "start": 0.0,
+      "end": 2.524,
+      "start_v1": 0.0,
+      "end_v1": 2.8890000000000002
+    },
+    {
+      "role": "B",
+      "text": "你不能吃辣吗？",
+      "pinyin": "nǐ bù néng chī là ma?",
+      "eng": "Can't you eat spicy food?",
+      "kor": "매운 거 못 드시나요?",
+      "start": 2.524,
+      "end": 5.049,
+      "start_v1": 2.914,
+      "end_v1": 4.687
+    },
+    {
+      "role": "A",
+      "text": "我一点儿也不能吃。",
+      "pinyin": "wǒ yì diǎnr yě bù néng chī.",
+      "eng": "I can't eat it at all.",
+      "kor": "조금도 못 먹어요.",
+      "start": 5.049,
+      "end": 7.575,
+      "start_v1": 4.712,
+      "end_v1": 7.007
+    },
+    {
+      "role": "B",
+      "text": "那给你点一个不辣的吧。",
+      "pinyin": "nà gěi nǐ diǎn yí gè bù là de ba.",
+      "eng": "Then I'll order a non-spicy one for you.",
+      "kor": "그럼 맵지 않은 걸로 주문해 드릴게요.",
+      "start": 7.575,
+      "end": 10.099,
+      "start_v1": 7.032,
+      "end_v1": 10.099
+    }
+  ]
+}

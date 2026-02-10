@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,524
+你下课以后做什么？
+What do you do after class?
+
+2
+00:00:02,524 --> 00:00:04,843
+我去超市买东西。
+I go to the supermarket to buy things.
+
+3
+00:00:04,868 --> 00:00:06,226
+你想买什么？
+What do you want to buy?
+
+4
+00:00:06,251 --> 00:00:10,099
+我想买点儿牛奶和鸡蛋。
+I want to buy some milk and eggs.
+

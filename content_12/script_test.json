@@ -1,0 +1,143 @@
+{
+  "title": "What do you do after class?",
+  "folder_name": "content_12",
+  "pattern_drill": "",
+  "vocab": [
+    {
+      "word": "你",
+      "mean": "you",
+      "kor": "너",
+      "pinyin": "nǐ"
+    },
+    {
+      "word": "下课",
+      "mean": "after class",
+      "kor": "수업 끝나다",
+      "pinyin": "xià kè"
+    },
+    {
+      "word": "以后",
+      "mean": "after",
+      "kor": "이후에",
+      "pinyin": "yǐ hòu"
+    },
+    {
+      "word": "做",
+      "mean": "do",
+      "kor": "하다",
+      "pinyin": "zuò"
+    },
+    {
+      "word": "什么",
+      "mean": "what",
+      "kor": "무엇",
+      "pinyin": "shén me"
+    },
+    {
+      "word": "我",
+      "mean": "I, me",
+      "kor": "나",
+      "pinyin": "wǒ"
+    },
+    {
+      "word": "去",
+      "mean": "go",
+      "kor": "가다",
+      "pinyin": "qù"
+    },
+    {
+      "word": "超市",
+      "mean": "supermarket",
+      "kor": "슈퍼마켓",
+      "pinyin": "chāo shì"
+    },
+    {
+      "word": "买",
+      "mean": "buy",
+      "kor": "사다",
+      "pinyin": "mǎi"
+    },
+    {
+      "word": "东西",
+      "mean": "things",
+      "kor": "물건",
+      "pinyin": "dōng xī"
+    },
+    {
+      "word": "想",
+      "mean": "want to",
+      "kor": "~하고 싶다",
+      "pinyin": "xiǎng"
+    },
+    {
+      "word": "买点儿",
+      "mean": "buy some",
+      "kor": "좀 사다",
+      "pinyin": "mǎi diǎn ér"
+    },
+    {
+      "word": "牛奶",
+      "mean": "milk",
+      "kor": "우유",
+      "pinyin": "niú nǎi"
+    },
+    {
+      "word": "和",
+      "mean": "and",
+      "kor": "와, 과",
+      "pinyin": "hé"
+    },
+    {
+      "word": "鸡蛋",
+      "mean": "eggs",
+      "kor": "계란",
+      "pinyin": "jī dàn"
+    }
+  ],
+  "dialogue": [
+    {
+      "role": "A",
+      "text": "你下课以后做什么？",
+      "pinyin": "nǐ xià kè yǐ hòu zuò shén me?",
+      "eng": "What do you do after class?",
+      "kor": "수업 끝나고 뭐 하세요?",
+      "start": 0.0,
+      "end": 2.524,
+      "start_v1": 0.0,
+      "end_v1": 2.524
+    },
+    {
+      "role": "B",
+      "text": "我去超市买东西。",
+      "pinyin": "wǒ qù chāo shì mǎi dōng xi.",
+      "eng": "I go to the supermarket to buy things.",
+      "kor": "마트에 물건 사러 가요.",
+      "start": 2.524,
+      "end": 5.049,
+      "start_v1": 2.524,
+      "end_v1": 4.843
+    },
+    {
+      "role": "A",
+      "text": "你想买什么？",
+      "pinyin": "nǐ xiǎng mǎi shén me?",
+      "eng": "What do you want to buy?",
+      "kor": "무엇을 사고 싶나요?",
+      "start": 5.049,
+      "end": 7.575,
+      "start_v1": 4.868,
+      "end_v1": 6.226
+    },
+    {
+      "role": "B",
+      "text": "我想买点儿牛奶和鸡蛋。",
+      "pinyin": "wǒ xiǎng mǎi diǎnr niú nǎi hé jī dàn.",
+      "eng": "I want to buy some milk and eggs.",
+      "kor": "우유랑 달걀을 좀 사고 싶어요.",
+      "start": 7.575,
+      "end": 10.099,
+      "start_v1": 6.251,
+      "end_v1": 10.099
+    }
+  ]
+}

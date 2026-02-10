@@ -1,0 +1,149 @@
+{
+  "title": "When are you free?",
+  "folder_name": "content_10",
+  "pattern_drill": "",
+  "vocab": [
+    {
+      "word": "你",
+      "mean": "you",
+      "kor": "너",
+      "pinyin": "nǐ"
+    },
+    {
+      "word": "什么",
+      "mean": "what",
+      "kor": "무엇",
+      "pinyin": "shén me"
+    },
+    {
+      "word": "时候",
+      "mean": "time, moment",
+      "kor": "때, 시간",
+      "pinyin": "shí hòu"
+    },
+    {
+      "word": "有空",
+      "mean": "to be free",
+      "kor": "시간이 있다",
+      "pinyin": "yǒu kòng"
+    },
+    {
+      "word": "我",
+      "mean": "I, me",
+      "kor": "나",
+      "pinyin": "wǒ"
+    },
+    {
+      "word": "这个",
+      "mean": "this",
+      "kor": "이",
+      "pinyin": "zhè ge"
+    },
+    {
+      "word": "周末",
+      "mean": "weekend",
+      "kor": "주말",
+      "pinyin": "zhōu mò"
+    },
+    {
+      "word": "我们",
+      "mean": "we, us",
+      "kor": "우리",
+      "pinyin": "wǒ men"
+    },
+    {
+      "word": "一起",
+      "mean": "together",
+      "kor": "함께",
+      "pinyin": "yì qǐ"
+    },
+    {
+      "word": "去",
+      "mean": "to go",
+      "kor": "가다",
+      "pinyin": "qù"
+    },
+    {
+      "word": "看书",
+      "mean": "to read books",
+      "kor": "책을 읽다",
+      "pinyin": "kàn shū"
+    },
+    {
+      "word": "吧",
+      "mean": "particle for suggestion",
+      "kor": "제안의 조사",
+      "pinyin": "ba"
+    },
+    {
+      "word": "好",
+      "mean": "good, okay",
+      "kor": "좋다",
+      "pinyin": "hǎo"
+    },
+    {
+      "word": "的",
+      "mean": "particle for emphasis or possession",
+      "kor": "강조나 소유의 조사",
+      "pinyin": "de"
+    },
+    {
+      "word": "图书馆",
+      "mean": "library",
+      "kor": "도서관",
+      "pinyin": "tú shū guǎn"
+    },
+    {
+      "word": "见",
+      "mean": "to see, to meet",
+      "kor": "보다, 만나다",
+      "pinyin": "jiàn"
+    }
+  ],
+  "dialogue": [
+    {
+      "role": "A",
+      "text": "你什么时候有空？",
+      "pinyin": "nǐ shén me shí hou yǒu kòng?",
+      "eng": "When are you free?",
+      "kor": "언제 시간이 나나요?",
+      "start": 0.0,
+      "end": 2.524,
+      "start_v1": 0.0,
+      "end_v1": 1.929
+    },
+    {
+      "role": "B",
+      "text": "我这个周末有空。",
+      "pinyin": "wǒ zhè ge zhōu mò yǒu kòng.",
+      "eng": "I am free this weekend.",
+      "kor": "이번 주말에 시간이 돼요.",
+      "start": 2.524,
+      "end": 5.049,
+      "start_v1": 1.954,
+      "end_v1": 4.109
+    },
+    {
+      "role": "A",
+      "text": "我们一起去看书吧？",
+      "pinyin": "wǒ men yì qǐ qù kàn shū ba?",
+      "eng": "Shall we go read books together?",
+      "kor": "우리 같이 책 보러 갈까요?",
+      "start": 5.049,
+      "end": 7.575,
+      "start_v1": 4.134,
+      "end_v1": 6.267
+    },
+    {
+      "role": "B",
+      "text": "好的，图书馆见。",
+      "pinyin": "hǎo de, tú shū guǎn jiàn.",
+      "eng": "Okay, see you at the library.",
+      "kor": "좋아요, 도서관에서 봐요.",
+      "start": 7.575,
+      "end": 10.099,
+      "start_v1": 6.292,
+      "end_v1": 10.099
+    }
+  ]
+}
