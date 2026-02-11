@@ -1,0 +1,161 @@
+{
+  "title": "Taking a taxi",
+  "folder_name": "content_19",
+  "pattern_drill": "",
+  "vocab": [
+    {
+      "word": "师傅",
+      "mean": "master (polite term for a skilled worker, e.g., driver)",
+      "kor": "기사님 (운전사 등 숙련된 작업자에 대한 존칭)",
+      "pinyin": "shī fù"
+    },
+    {
+      "word": "去",
+      "mean": "to go",
+      "kor": "가다",
+      "pinyin": "qù"
+    },
+    {
+      "word": "机场",
+      "mean": "airport",
+      "kor": "공항",
+      "pinyin": "jī chǎng"
+    },
+    {
+      "word": "要",
+      "mean": "to need; will",
+      "kor": "필요하다; ~할 것이다",
+      "pinyin": "yào"
+    },
+    {
+      "word": "多久",
+      "mean": "how long",
+      "kor": "얼마나 오래",
+      "pinyin": "duō jiǔ"
+    },
+    {
+      "word": "大概",
+      "mean": "approximately, roughly",
+      "kor": "대략",
+      "pinyin": "dà gài"
+    },
+    {
+      "word": "需要",
+      "mean": "to need, to require",
+      "kor": "필요하다",
+      "pinyin": "xū yào"
+    },
+    {
+      "word": "四十分钟",
+      "mean": "forty minutes",
+      "kor": "사십 분",
+      "pinyin": "sì shí fēn zhōng"
+    },
+    {
+      "word": "我",
+      "mean": "I, me",
+      "kor": "나",
+      "pinyin": "wǒ"
+    },
+    {
+      "word": "有点",
+      "mean": "a bit, somewhat",
+      "kor": "조금",
+      "pinyin": "yǒu diǎn"
+    },
+    {
+      "word": "赶时间",
+      "mean": "to be in a hurry",
+      "kor": "시간에 쫓기다",
+      "pinyin": "gǎn shí jiān"
+    },
+    {
+      "word": "能",
+      "mean": "can, to be able to",
+      "kor": "~할 수 있다",
+      "pinyin": "néng"
+    },
+    {
+      "word": "快点",
+      "mean": "faster, quicker",
+      "kor": "빨리",
+      "pinyin": "kuài diǎn"
+    },
+    {
+      "word": "吗",
+      "mean": "question particle",
+      "kor": "의문사",
+      "pinyin": "ma"
+    },
+    {
+      "word": "没",
+      "mean": "not, no",
+      "kor": "아니다",
+      "pinyin": "méi"
+    },
+    {
+      "word": "问题",
+      "mean": "problem",
+      "kor": "문제",
+      "pinyin": "wèn tí"
+    },
+    {
+      "word": "我会",
+      "mean": "I will",
+      "kor": "나는 ~할 것이다",
+      "pinyin": "wǒ huì"
+    },
+    {
+      "word": "走近路",
+      "mean": "to take a shortcut",
+      "kor": "지름길로 가다",
+      "pinyin": "zǒu jìn lù"
+    }
+  ],
+  "dialogue": [
+    {
+      "role": "A",
+      "text": "师傅，去机场要多久？",
+      "pinyin": "shī fu, qù jī chǎng yào duō jiǔ?",
+      "eng": "Taking a taxi",
+      "kor": "기사님, 공항까지 얼마나 걸려요?",
+      "start": 0.0,
+      "end": 2.524,
+      "start_v1": 0.0,
+      "end_v1": 3.014
+    },
+    {
+      "role": "B",
+      "text": "大概需要四十分钟。",
+      "pinyin": "dà gài xū yào sì shí fēn zhōng.",
+      "eng": "It takes about forty minutes.",
+      "kor": "대략 40분 정도 걸립니다.",
+      "start": 2.524,
+      "end": 5.049,
+      "start_v1": 3.039,
+      "end_v1": 4.992
+    },
+    {
+      "role": "A",
+      "text": "我有点赶时间，能快点吗？",
+      "pinyin": "wǒ yǒu diǎn gǎn shí jiān, néng kuài diǎn ma?",
+      "eng": "I'm in a bit of a hurry, can you go faster?",
+      "kor": "제가 좀 급한데, 빨리 갈 수 있을까요?",
+      "start": 5.049,
+      "end": 7.575,
+      "start_v1": 5.017,
+      "end_v1": 7.054
+    },
+    {
+      "role": "B",
+      "text": "没问题，我会走近路。",
+      "pinyin": "méi wèn tí, wǒ huì zǒu jìn lù.",
+      "eng": "No problem, I'll take a shortcut.",
+      "kor": "문제없어요, 지름길로 갈게요.",
+      "start": 7.575,
+      "end": 10.099,
+      "start_v1": 7.079,
+      "end_v1": 10.099
+    }
+  ]
+}

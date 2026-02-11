@@ -1,0 +1,149 @@
+{
+  "title": "Talking about weather",
+  "folder_name": "content_20",
+  "pattern_drill": "",
+  "vocab": [
+    {
+      "word": "今天",
+      "mean": "today",
+      "kor": "오늘",
+      "pinyin": "jīn tiān"
+    },
+    {
+      "word": "外面",
+      "mean": "outside",
+      "kor": "밖",
+      "pinyin": "wài miàn"
+    },
+    {
+      "word": "冷",
+      "mean": "cold",
+      "kor": "춥다",
+      "pinyin": "lěng"
+    },
+    {
+      "word": "吗",
+      "mean": "question particle",
+      "kor": "의문사",
+      "pinyin": "ma"
+    },
+    {
+      "word": "有点",
+      "mean": "a bit",
+      "kor": "조금",
+      "pinyin": "yǒu diǎn"
+    },
+    {
+      "word": "风",
+      "mean": "wind",
+      "kor": "바람",
+      "pinyin": "fēng"
+    },
+    {
+      "word": "很大",
+      "mean": "very big/strong",
+      "kor": "매우 크다/강하다",
+      "pinyin": "hěn dà"
+    },
+    {
+      "word": "我",
+      "mean": "I, me",
+      "kor": "나",
+      "pinyin": "wǒ"
+    },
+    {
+      "word": "需要",
+      "mean": "need",
+      "kor": "필요하다",
+      "pinyin": "xū yào"
+    },
+    {
+      "word": "穿",
+      "mean": "to wear",
+      "kor": "입다",
+      "pinyin": "chuān"
+    },
+    {
+      "word": "羽绒服",
+      "mean": "down jacket",
+      "kor": "패딩",
+      "pinyin": "yǔ róng fú"
+    },
+    {
+      "word": "最好",
+      "mean": "had better",
+      "kor": "~하는 게 좋다",
+      "pinyin": "zuì hǎo"
+    },
+    {
+      "word": "上",
+      "mean": "on, up (as in put on)",
+      "kor": "입다 (동사와 함께 사용)",
+      "pinyin": "shàng"
+    },
+    {
+      "word": "别",
+      "mean": "don't",
+      "kor": "~하지 마라",
+      "pinyin": "bié"
+    },
+    {
+      "word": "感冒",
+      "mean": "catch a cold",
+      "kor": "감기에 걸리다",
+      "pinyin": "gǎn mào"
+    },
+    {
+      "word": "了",
+      "mean": "particle indicating change or completion",
+      "kor": "어미 (변화나 완료를 나타냄)",
+      "pinyin": "le"
+    }
+  ],
+  "dialogue": [
+    {
+      "role": "A",
+      "text": "今天外面冷吗？",
+      "pinyin": "jīn tiān wài miàn lěng ma?",
+      "eng": "Talking about weather",
+      "kor": "오늘 밖이 추운가요?",
+      "start": 0.0,
+      "end": 2.524,
+      "start_v1": 0.0,
+      "end_v1": 2.084
+    },
+    {
+      "role": "B",
+      "text": "有点冷，风很大。",
+      "pinyin": "yǒu diǎn lěng, fēng hěn dà.",
+      "eng": "It's a bit cold, and the wind is strong.",
+      "kor": "좀 추워요, 바람이 많이 불어요.",
+      "start": 2.524,
+      "end": 5.049,
+      "start_v1": 2.109,
+      "end_v1": 4.194
+    },
+    {
+      "role": "A",
+      "text": "我需要穿羽绒服吗？",
+      "pinyin": "wǒ xū yào chuān yǔ róng fú ma?",
+      "eng": "Do I need to wear a down jacket?",
+      "kor": "패딩을 입어야 할까요?",
+      "start": 5.049,
+      "end": 7.575,
+      "start_v1": 4.228,
+      "end_v1": 6.304
+    },
+    {
+      "role": "B",
+      "text": "最好穿上，别感冒了。",
+      "pinyin": "zuì hǎo chuān shàng, bié gǎn mào le.",
+      "eng": "You'd better put it on so you don't catch a cold.",
+      "kor": "입는 게 좋아요, 감기 조심하세요.",
+      "start": 7.575,
+      "end": 10.099,
+      "start_v1": 6.329,
+      "end_v1": 10.099
+    }
+  ]
+}

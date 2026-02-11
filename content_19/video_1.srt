@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:03,014
+师傅，去机场要多久？
+Taking a taxi
+
+2
+00:00:03,039 --> 00:00:04,992
+大概需要四十分钟。
+It takes about forty minutes.
+
+3
+00:00:05,017 --> 00:00:07,054
+我有点赶时间，能快点吗？
+I'm in a bit of a hurry, can you go faster?
+
+4
+00:00:07,079 --> 00:00:10,099
+没问题，我会走近路。
+No problem, I'll take a shortcut.
+

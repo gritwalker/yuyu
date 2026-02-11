@@ -1,0 +1,131 @@
+{
+  "title": "Is there Wi-Fi here?",
+  "folder_name": "content_17",
+  "pattern_drill": "",
+  "vocab": [
+    {
+      "word": "这儿",
+      "mean": "here",
+      "kor": "여기",
+      "pinyin": "zhè ér"
+    },
+    {
+      "word": "有",
+      "mean": "to have",
+      "kor": "있다",
+      "pinyin": "yǒu"
+    },
+    {
+      "word": "无线网",
+      "mean": "Wi-Fi",
+      "kor": "와이파이",
+      "pinyin": "wú xiàn wǎng"
+    },
+    {
+      "word": "吗",
+      "mean": "question particle",
+      "kor": "의문사",
+      "pinyin": "ma"
+    },
+    {
+      "word": "免费",
+      "mean": "free of charge",
+      "kor": "무료",
+      "pinyin": "miǎn fèi"
+    },
+    {
+      "word": "的",
+      "mean": "possessive/descriptive particle",
+      "kor": "소유/서술 조사",
+      "pinyin": "de"
+    },
+    {
+      "word": "密码",
+      "mean": "password",
+      "kor": "비밀번호",
+      "pinyin": "mì mǎ"
+    },
+    {
+      "word": "是",
+      "mean": "to be",
+      "kor": "이다",
+      "pinyin": "shì"
+    },
+    {
+      "word": "多少",
+      "mean": "how much/many",
+      "kor": "얼마",
+      "pinyin": "duō shǎo"
+    },
+    {
+      "word": "前台",
+      "mean": "front desk",
+      "kor": "프론트",
+      "pinyin": "qián tái"
+    },
+    {
+      "word": "会",
+      "mean": "will",
+      "kor": "~할 것이다",
+      "pinyin": "huì"
+    },
+    {
+      "word": "告诉",
+      "mean": "to tell",
+      "kor": "알려주다",
+      "pinyin": "gào sù"
+    },
+    {
+      "word": "你",
+      "mean": "you",
+      "kor": "너",
+      "pinyin": "nǐ"
+    }
+  ],
+  "dialogue": [
+    {
+      "role": "A",
+      "text": "这儿有无线网吗？",
+      "pinyin": "zhè r yǒu wú xiàn wǎng ma?",
+      "eng": "Is there Wi-Fi here?",
+      "kor": "여기 와이파이 있어요?",
+      "start": 0.0,
+      "end": 2.0,
+      "start_v1": 0.0,
+      "end_v1": 1.187
+    },
+    {
+      "role": "B",
+      "text": "有，免费的。",
+      "pinyin": "yǒu, miǎn fèi de.",
+      "eng": "Yes, it's free.",
+      "kor": "있어요 무료예요",
+      "start": 2.0,
+      "end": 4.0,
+      "start_v1": 1.212,
+      "end_v1": 3.32
+    },
+    {
+      "role": "A",
+      "text": "密码是多少？",
+      "pinyin": "mì mǎ shì duō shǎo?",
+      "eng": "What's the password?",
+      "kor": "비밀번호가 뭐예요?",
+      "start": 4.0,
+      "end": 6.0,
+      "start_v1": 3.3449999999999998,
+      "end_v1": 5.312
+    },
+    {
+      "role": "B",
+      "text": "前台会告诉你。",
+      "pinyin": "qián tái huì gào sù nǐ.",
+      "eng": "The front desk will tell you.",
+      "kor": "카운터에서 알려줘요",
+      "start": 6.0,
+      "end": 8.0,
+      "start_v1": 5.337,
+      "end_v1": 8.0
+    }
+  ]
+}

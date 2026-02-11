@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,084
+今天外面冷吗？
+Talking about weather
+
+2
+00:00:02,109 --> 00:00:04,194
+有点冷，风很大。
+It's a bit cold, and the wind is strong.
+
+3
+00:00:04,228 --> 00:00:06,304
+我需要穿羽绒服吗？
+Do I need to wear a down jacket?
+
+4
+00:00:06,329 --> 00:00:10,099
+最好穿上，别感冒了。
+You'd better put it on so you don't catch a cold.
+

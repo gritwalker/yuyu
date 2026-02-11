@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:01,648
+那个饭店怎么走？
+How do I get to that restaurant?
+
+2
+00:00:01,673 --> 00:00:04,148
+往前走，在第二个路口右转。
+Go straight ahead and turn right at the second intersection.
+
+3
+00:00:04,173 --> 00:00:05,679
+离这儿远吗？
+Is it far from here?
+
+4
+00:00:05,704 --> 00:00:10,099
+不远，就在超市对面。
+Not far, it's right across from the supermarket.
+
